@@ -1,6 +1,6 @@
 # Hello World! 👋🇧🇷
 - **Desenvolvedor Iniciante**🧬
-- **Estudande de Ciência da Computação**💻
+- **Estudante de Ciência da Computação**💻
 - **Sempre buscando novas tecnologias e novos aprendizados no geral**💫
 
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Plataformas
+## Plataformas de Estudo
 <div>
    <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff&style=for-the-badge">
    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=whit">
